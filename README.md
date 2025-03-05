@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Le Délice Français - Site Web
 
-## Getting Started
+Site web moderne et élégant pour le restaurant Le Délice Français, développé avec Next.js 14 et Tailwind CSS.
 
-First, run the development server:
+## 🍽️ À propos du Projet
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Le Délice Français est un restaurant gastronomique situé au cœur de Paris, offrant une expérience culinaire authentique et raffinée. Ce site web présente :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Une carte de menu interactive
+- Une sélection de vins
+- Un système de réservation
+- Des informations de contact
+- Une politique de confidentialité et mentions légales
+- Un mode sombre/clair
+- Une version mobile responsive
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Technologies Utilisées
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [Next.js 14](https://nextjs.org/) - Framework React
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS
+- [TypeScript](https://www.typescriptlang.org/) - Typage statique
+- [Framer Motion](https://www.framer.com/motion/) - Animations
+- [React Icons](https://react-icons.github.io/react-icons/) - Icônes
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 📱 Fonctionnalités
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Design responsive
+- Mode sombre/clair
+- Animations fluides
+- Optimisation SEO
+- Structure de données JSON-LD
+- Gestion des cookies
+- Accessibilité (ARIA, contraste)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔧 Configuration
 
-## Deploy on Vercel
+Le projet utilise les variables CSS personnalisées pour les couleurs et les thèmes. Vous pouvez les modifier dans `src/app/globals.css`.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 Licence
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
+## 👥 Contribution
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un pull request.
+
+## 📞 Contact
+
+Pour toute question concernant le projet, n'hésitez pas à ouvrir une issue sur GitHub.
