@@ -87,7 +87,7 @@ export default function CGV() {
 
         <div className="mt-12 text-center">
           <Link href="/" className="btn-secondary inline-block px-8 py-3">
-            Retour à l'accueil
+            Retour à l&apos;accueil
           </Link>
         </div>
       </div>
